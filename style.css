@@ -1,0 +1,14 @@
+.blue {
+    color:blue;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    margin: 50px !important;
+}
+
+#cuma-table{
+    margin-top: 50px;
+    margin-right: 0px;
+    margin-bottom: 50px;
+    margin-left: 100px;
+    background-color: yellow;
+    padding: 50px;
+}
