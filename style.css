@@ -12,3 +12,12 @@
     background-color: yellow;
     padding: 50px;
 }
+
+div a {
+    color: black;
+}
+
+
+div a:hover {
+    color: red;
+}
